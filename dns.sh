@@ -8,6 +8,7 @@ declare -A dns_servers=(
   [4]="Radar_Game:10.202.10.10"
   [5]="Google:8.8.8.8"
   [6]="Begzar:185.55.226.26"
+  [7]="DNSPro:87.107.110.110"
 )
 
 # Display options
@@ -36,4 +37,3 @@ if [[ $input =~ ^[1-6]$ ]]; then
 else
   echo "Invalid input. Please enter a number between 1 and 5."
 fi
-
