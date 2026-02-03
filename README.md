@@ -17,6 +17,8 @@ A simple Bash script to change the DNS settings on your system. This script allo
 4. Radar_Game: 10.202.10.10
 5. Google: 8.8.8.8
 6. Begzar: 185.55.226.26
+7. DNSPro: 87.107.110.110
+
 ## Requirements
 
 - Bash shell
@@ -50,4 +52,3 @@ A simple Bash script to change the DNS settings on your system. This script allo
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements.
-
